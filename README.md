@@ -1,9 +1,9 @@
 # Reverse Shell
 
 <div align="center">
-  
-![1707092972504](https://github.com/Hasul79/Reverse-Shell/assets/95657084/b1f5a520-3df5-4e92-aff7-157e404709aa)
 
+<img src="https://github.com/Hasul79/Reverse-Shell/assets/95657084/b1f5a520-3df5-4e92-aff7-157e404709aa" alt="1715353351920" width="500px">
+  
 </div>
 
 ```
