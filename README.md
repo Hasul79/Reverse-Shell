@@ -1,4 +1,3 @@
-# Reverse-Shell
 
 ![1707092972504](https://github.com/Hasul79/Reverse-Shell/assets/95657084/b1f5a520-3df5-4e92-aff7-157e404709aa)
 
@@ -32,7 +31,7 @@ pip install requirements.txt
 
 <p>You can use windows shell commands to get or put files, change your location, start application like below</p>
 <ol>
-<li> <mark>start </mark>[application_name or link]: start application or link you want.</li>
+<li> start [application_name or link]: start application or link you want.</li>
 <li> dir: show files your location.</li>
 <li> cd: change path.</li>
 </ol>
@@ -66,4 +65,8 @@ pip install requirements.txt
 
 ![Screenshot 2024-05-12 015128](https://github.com/Hasul79/Reverse-Shell/assets/95657084/f2ca67d3-cf98-49d1-b5e4-9b5b35aab8fb)
 
+<h2>BackDoorSim is developed for educational purposes only. The creators of BackDoorSim are not responsible for any misuse of this tool. This tool should not be used in any unauthorized or illegal manner. Always ensure ethical and legal use of this tool.</h2>
 
+<h2>Thank you</h2>
+
+# author: Hasmik Minasyan 2024
