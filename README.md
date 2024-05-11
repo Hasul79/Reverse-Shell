@@ -10,7 +10,7 @@ pip install requirements.txt
 ```
 
 
-<p>Backdoor is a remote administration and monitoring tool designed for educational and testing purposes. It consists of two main components: ControlServer and BackdoorClient. The server controls the client, allowing for various operations like file transfer, system monitoring, and more.</p>
+<p>Reverse-Shell is a remote administration and monitoring tool designed for educational and testing purposes. It consists of two main components: Controler and Reverse. The server controls the client, allowing for various operations like file transfer, system monitoring, and more.</p>
 
 <h3>Features</h3>
 <ol>
@@ -65,7 +65,7 @@ pip install requirements.txt
 
 ![Screenshot 2024-05-12 015128](https://github.com/Hasul79/Reverse-Shell/assets/95657084/f2ca67d3-cf98-49d1-b5e4-9b5b35aab8fb)
 
-<h2>BackDoorSim is developed for educational purposes only. The creators of BackDoorSim are not responsible for any misuse of this tool. This tool should not be used in any unauthorized or illegal manner. Always ensure ethical and legal use of this tool.</h2>
+<h2>Reverse -Shell is developed for educational purposes only. The creators of Reverse-Shell are not responsible for any misuse of this tool. This tool should not be used in any unauthorized or illegal manner. Always ensure ethical and legal use of this tool.</h2>
 
 <h2>Thank you</h2>
 
