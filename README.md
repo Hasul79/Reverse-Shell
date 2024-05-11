@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Hasul79/Reverse-Shell/assets/95657084/b1f5a520-3df5-4e92-aff7-157e404709aa" alt="1715353351920" width="500px">
+<img src="https://github.com/Hasul79/Reverse-Shell/assets/95657084/b1f5a520-3df5-4e92-aff7-157e404709aa" alt="1715353351920" width="400px">
   
 </div>
 
